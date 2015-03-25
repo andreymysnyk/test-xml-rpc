@@ -1,8 +1,6 @@
 package com.andreym.test.server;
 
-import org.apache.xmlrpc.common.ServerStreamConnection;
 import org.apache.xmlrpc.server.PropertyHandlerMapping;
-import org.apache.xmlrpc.server.XmlRpcHttpServer;
 import org.apache.xmlrpc.server.XmlRpcServer;
 import org.apache.xmlrpc.webserver.WebServer;
 
